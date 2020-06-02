@@ -2,6 +2,8 @@
     margin:10px 30%;
     padding: 10px;
     border: 1px solid black;
+    /* display: inline-block; */
+    word-wrap: break-word;
 }
 h1{
     text-align: center;
